@@ -33,4 +33,15 @@
         android:layout_toEndOf="@+id/ivProfileImage"
         tools:text="What gaming opinions do y'all got that would get you this reaction" />
 
+    <TextView
+        android:id="@+id/tvTime"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/tvScreenName"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="0dp"
+        android:layout_marginEnd="-82dp"
+        tools:text="7h" />
+
 </RelativeLayout>
