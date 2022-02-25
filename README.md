@@ -26,11 +26,6 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='SimpleTweetWalkthrough PostTweets.gif' title='Video Walkthrough' width=250><br>
-<img src='testgif.gif' title='Video Walkthrough' width=250><br>
-<img src='https://imgur.com/a/jjBLyba.gif' title='Video Walkthrough' width=250><br>
-
-
-
 
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
