@@ -27,6 +27,9 @@ Here's a walkthrough of implemented user stories:
 
 <img src='SimpleTweetWalkthrough PostTweets.gif' title='Video Walkthrough' width=250><br>
 <img src='testgif.gif' title='Video Walkthrough' width=250><br>
+<img src='https://imgur.com/a/jjBLyba' title='Video Walkthrough' width=250><br>
+
+
 
 
 
